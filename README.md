@@ -6,3 +6,9 @@ Simple linear regression exercises concerning car prices
 - Exercises on linear regression (least square): house pricing prediction
 ## lab2
 - Clothing recognition using Support Vector Machines (SVM)
+## lab3
+- Clothing recognition using fully connected Neural Network
+## lab4
+- Image segmentation and clustering recognition using K-means and agglomerative clustering
+## lab5
+- Clothing recognition using a CNN with Keras
